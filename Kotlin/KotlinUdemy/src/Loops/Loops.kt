@@ -80,4 +80,18 @@ fun main(args: Array<String>) {
         println(challengeSum)
     }
 
-}
+    /* -- Coding Challenge 3 -- */
+
+    // Create an array list of your favourite books, loop over the list and if the title
+    // contains the letter 'e', print each character of the name on a new line.
+
+    val booksArray = arrayOf("The Lord of the Rings", "Harry Potter", "Wayward Pines", "Kuinka olla piittaamatta p*skaakaan" ,"The Alchemist")
+    for (title in booksArray) {
+        if (title.contains('e')) {
+            for (char in title) {
+                println(char)
+            }
+            println()
+        }
+    }
+} // End main

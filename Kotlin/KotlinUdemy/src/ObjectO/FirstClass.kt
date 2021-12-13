@@ -3,7 +3,7 @@ package ObjectO
     // Coding Challenge... 4? at the end of the code.
 
 class Person {
-    var name: String = "Annie"
+    open var name: String = "Annie"
     var age: Int = 30
 
     fun speak() {

@@ -1,6 +1,6 @@
 	Hi there!
   
-Here is the files containing the practices I've done for the Udemy course
+Here are the files containing the practices I've done in the Udemy course
 
 Kotlin for Beginners: Learn Programming with Kotlin
 	by Peter Sommerhoff
